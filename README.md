@@ -35,6 +35,10 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 
 10. **Market Potential Analysis**  
     Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
+
+## Data Modelling 
+![data modelling](https://github.com/user-attachments/assets/924eae08-1bef-48ea-8419-d312159c37c8)
+
     
 
 ## Recommendations
